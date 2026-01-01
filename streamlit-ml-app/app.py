@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 
 st.set_page_config(page_title="ML Models Dashboard", layout="wide")
@@ -27,3 +27,4 @@ if uploaded_file:
 
     elif model == "Erosion Prediction":
         st.success("Erosion prediction model will run here")
+
