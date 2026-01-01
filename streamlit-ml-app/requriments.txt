@@ -1,0 +1,10 @@
+%%writefile requirements.txt
+streamlit
+torch
+torchvision
+numpy
+pandas
+opencv-python
+Pillow
+scikit-learn
+matplotlib
